@@ -1,0 +1,12 @@
+#das
+#asv
+
+.data
+.word 1
+.word 1
+.word 1
+
+.text
+#sav
+add x1,x1,x1
+addi x1,x1,0

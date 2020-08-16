@@ -1,0 +1,11 @@
+tab_2 is simulator tab 
+tab is editor
+editor code is editor
+tab_widget_2 if for memory and registers 
+tab 3 is register tab
+tab4 is memory tab
+tabwidget3 for basic code
+tabwidget4 for machine code
+tabwidget5 for console
+label - printing current pc value
+
