@@ -1,4 +1,4 @@
-##ASSUMPTIONS:
+## ASSUMPTIONS:
 
 1. There should be nothing other than .text and .data on a line.
 2. There must be commas in instruction.
@@ -7,7 +7,7 @@
 5. Elements of array are seperated by ' ', not by comma.
 6. Put no ':' in comments.
 
-##FOR-REFERENCE:
+## FOR-REFERENCE:
 
 1. Assembler directives:
 	.word	.half	.dword	.byte	.asciiz	  .data	  .text
