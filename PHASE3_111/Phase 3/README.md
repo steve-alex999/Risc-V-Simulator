@@ -16,3 +16,10 @@
 4. Immediate value in I format is < = 2^11-1 because we are using signed representation. 
 5. In auipc and lui, only positive imm field accepted(range:[0,2^20-1]), just like in Venus.
 6. Label name cannot begin with a digit, and cannot contain any ()
+
+## HOW TO RUN
+1. Install python 3.8
+2. Install dataclasses, PyQt5  modules.
+3. Change current working directory to 'Source Code'
+4. Run the following command on terminal:
+	python Apache.py
